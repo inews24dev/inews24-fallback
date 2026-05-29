@@ -18,7 +18,7 @@
 	},
 	"kv_namespaces": [
 		{
-			"binding": "dataset",
+			"binding": "G_CONTENT",
 			"id": "cbb9b94280be4d21abd8eca0c0c562c4"
 		}
 	],
